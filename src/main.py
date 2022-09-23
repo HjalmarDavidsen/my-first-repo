@@ -1,4 +1,4 @@
 
-def print_ten_times(msg):
-  for i in range(10:
+def print_n_times(msg, n):
+  for i in range(n):
      print(msg)
